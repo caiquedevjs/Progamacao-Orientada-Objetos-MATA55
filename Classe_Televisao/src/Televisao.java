@@ -77,13 +77,5 @@ public class Televisao {
         this.status = "desligado";
     }
 
-    public static void main(String[] args) {
-        Televisao tv1 = new Televisao("Samsung", "Smart TV", 1234, 5);
-        System.out.println("Status TV1: " + tv1.getStatus()); // Deve imprimir "ligado"
-
-        Televisao tv2 = new Televisao("LG", "TV Simples");
-        System.out.println("Status TV2: " + tv2.getStatus()); // Deve imprimir "desligado"
-        tv2.ligar();
-        System.out.println("Status TV2 após ligar: " + tv2.getStatus()); // Deve imprimir "desligado"
-    }
+    
 }
