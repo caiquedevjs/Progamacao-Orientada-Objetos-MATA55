@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bolinhas/Bolinhas.iml" filepath="$PROJECT_DIR$/Bolinhas/Bolinhas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculadora/Calculadora.iml" filepath="$PROJECT_DIR$/Calculadora/Calculadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classe Conta/Classe Conta.iml" filepath="$PROJECT_DIR$/Classe Conta/Classe Conta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classe_Televisao/Classe_Televisao.iml" filepath="$PROJECT_DIR$/Classe_Televisao/Classe_Televisao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maior_Altura/Maior_Altura.iml" filepath="$PROJECT_DIR$/Maior_Altura/Maior_Altura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Programas desenvolvidos em MAT55-2024.1.iml" filepath="$PROJECT_DIR$/.idea/Programas desenvolvidos em MAT55-2024.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Retorne_dobre/Retorne_dobre.iml" filepath="$PROJECT_DIR$/Retorne_dobre/Retorne_dobre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tabuada/Tabuada.iml" filepath="$PROJECT_DIR$/Tabuada/Tabuada.iml" />
+    </modules>
+  </component>
+</project>
